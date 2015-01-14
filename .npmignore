@@ -2,9 +2,6 @@
 /example/
 /generate/
 /test/
-/vendor/libgit2/
-/vendor/libssh2/
-/vendor/http_parser/
 /vendor/Release/
 
 .astylerc
